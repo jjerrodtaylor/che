@@ -1,0 +1,531 @@
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.Drop-Cap {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : 600;
+	font-style : normal;
+	font-size : 1em;
+	font-variant : normal;
+	color : #000000;
+}
+span.English-Book-Title-Apostropohe {
+	font-family : "Apple Chancery", sans-serif;
+	font-weight : 0;
+	font-style : normal;
+	font-size : 4.17em;
+	font-variant : normal;
+	color : #000000;
+}
+span.copyright-italic {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1em;
+	font-variant : normal;
+	color : #000000;
+}
+span.copyright-bold {
+	font-family : "Minion Pro Cond", serif;
+	font-stretch : condensed;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	font-variant : normal;
+	color : #000000;
+}
+span.back-carrots {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	font-variant : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-size : 2.81em;
+	float : left;
+	line-height : 1;
+	margin-top : -0.059em;
+	margin-right : 0.05em;
+	margin-bottom : -0.275em;
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : 600;
+	font-style : normal;
+}
+p.Basic-Paragraph {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.L2-Paragraphs {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.L1-Paragraphs {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.L2-Chapter {
+	font-family : Arial, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	text-transform : uppercase;
+	line-height : 1.5;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 108px 0px 11px 0px;
+}
+p.Combined-Chapter-Number {
+	font-family : Arial, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	text-transform : uppercase;
+	line-height : 1.5;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 108px 0px 11px 0px;
+}
+p.L2-Title {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : small-caps;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 36px 0px;
+}
+p.L1-Title {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : small-caps;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 36px 0px;
+}
+p.L2-Paragraph-First {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.L1-Paragraph-First {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.L2-Paragraph-First-2 {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.L1-Paragraph-First-2 {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.L1-Paragraph-First-3 {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.TOC-Body-Text-2 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	text-transform : uppercase;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Book-title-1 {
+	font-family : Arial, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 4.58em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 25px 0px 0px 0px;
+}
+p.Book-title-2 {
+	font-family : Arial, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 2.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 36px 0px;
+}
+p.Book-title-L1-1 {
+	font-family : Arial, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 4.58em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Book-author {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 18px 0px;
+}
+p.Book-text-alignment {
+	font-family : "Adobe Garamond Pro", serif;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 1.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Copyright {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.L2-Title-2 {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : small-caps;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 18px 0px;
+}
+p.L1-Title-2 {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : small-caps;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 18px 0px;
+}
+p.Book-title-L1-2 {
+	font-family : Arial, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 2.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 54px 0px;
+}
+p.TOC-Body-Text-3 {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.08em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 15px 50px;
+}
+p.TOC-Body-Text {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	text-transform : uppercase;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 7px 50px;
+}
+p.Section-Title {
+	font-family : "Adobe Garamond Pro Bold", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	text-transform : uppercase;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 36px 0px;
+}
+p.copyright-2 {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+p.Paragraph-Numbers {
+	font-family : "Minion Pro", serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Book-subtitle {
+	font-family : Arial, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 90px 0px;
+}
+p.MyPageBreak {
+	font-family : "Minion Pro", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+table.No-Table-Style {
+	width: 100%;
+	border-collapse : collapse;
+	border-width : 1px;
+	border-style : solid;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : -4px;
+}
+table.L2-Table-1 {
+	width: 100%;
+	border-collapse : collapse;
+	border-width : 0px;
+	border-style : none;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : 4px;
+}
+table.L2-Table-2 {
+	width: 100%;
+	border-collapse : collapse;
+	border-width : 0px;
+	border-style : none;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : 4px;
+}
+table.L1-Table-2 {
+	width: 100%;
+	border-collapse : collapse;
+	border-width : 0px;
+	border-style : none;
+	margin-top : 4px;
+	margin-bottom : 4px;
+}
+table.L1-Table-1 {
+	width: 100%;
+	border-collapse : collapse;
+	border-width : 0px;
+	border-style : none;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : 4px;
+}
+table.table-style-override-1 {
+	width: 100%;
+	border-collapse : collapse;
+	border-style : none;
+	border-width : 0px;
+}
+td.Numbers {
+	width: 10%;
+	padding-top : 5px;
+	padding-bottom : 5px;
+	padding-left : 0px;
+	padding-right : 5px;
+	vertical-align: text-top;
+}
+td.First-L2-Paragraph-TD {
+	width: 90%;
+	padding-top : 5px;
+	padding-bottom : 5px;
+	padding-left : 5px;
+	padding-right : 5px;
+}
+td.L2-Paragraph-TD {
+	width: 90%;
+	padding-top : 5px;
+	padding-bottom : 5px;
+	padding-left : 5px;
+	padding-right : 5px;
+}
+td.L1-Paragraphs-TD {
+	width: 90%;
+	padding-top : 5px;
+	padding-bottom : 5px;
+	padding-left : 5px;
+	padding-right : 5px;
+}
+td.First-L1-Paragraph-TD {
+	width: 90%;
+	padding-top : 5px;
+	padding-bottom : 5px;
+	padding-left : 5px;
+	padding-right : 5px;
+}
+div.Basic-Text-Frame {
+}
