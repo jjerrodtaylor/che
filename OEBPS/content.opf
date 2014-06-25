@@ -25,7 +25,30 @@
         <item href="Text/L2/introduction.html" id="introduction_fr.html" media-type="application/xhtml+xml"/>
         <item href="Text/L1/introduction.html" id="introduction_en.html" media-type="application/xhtml+xml"/>
         <item href="Text/L2/chapter1.html" id="chapter1_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter2.html" id="chapter2_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter3.html" id="chapter3_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter4.html" id="chapter4_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter5.html" id="chapter5_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter6.html" id="chapter6_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter7.html" id="chapter7_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter8.html" id="chapter8_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter9.html" id="chapter9_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter10.html" id="chapter10_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter11.html" id="chapter11_fr.html" media-type="application/xhtml+xml" />
+        <item href="Text/L2/chapter12.html" id="chapter12_fr.html" media-type="application/xhtml+xml" />
         <item href="Text/L1/chapter1.html" id="chapter1_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter2_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter3_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter4_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter5_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter6_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter7_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter8_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter9_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter10_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter11_en.html" media-type="application/xhtml+xml" />
+        <item href="Text/L1/chapter1.html" id="chapter12_en.html" media-type="application/xhtml+xml" />
+
     </manifest>
     <spine toc="ncx">
         <itemref idref="cover_page.html" />
@@ -36,7 +59,29 @@
         <itemref idref="introduction_en.html"/>
         <itemref idref="introduction_fr.html"/>
         <itemref idref="chapter1_fr.html" />
+        <itemref idref="chapter2_fr.html" />
+        <itemref idref="chapter3_fr.html" />
+        <itemref idref="chapter4_fr.html" />
+        <itemref idref="chapter5_fr.html" />
+        <itemref idref="chapter6_fr.html" />
+        <itemref idref="chapter7_fr.html" />
+        <itemref idref="chapter8_fr.html" />
+        <itemref idref="chapter9_fr.html" />
+        <itemref idref="chapter10_fr.html" />
+        <itemref idref="chapter11_fr.html" />
+        <itemref idref="chapter12_fr.html" />
         <itemref idref="chapter1_en.html" />
+        <itemref idref="chapter2_en.html" />
+        <itemref idref="chapter3_en.html" />
+        <itemref idref="chapter4_en.html" />
+        <itemref idref="chapter5_en.html" />
+        <itemref idref="chapter6_en.html" />
+        <itemref idref="chapter7_en.html" />
+        <itemref idref="chapter8_en.html" />
+        <itemref idref="chapter9_en.html" />
+        <itemref idref="chapter10_en.html" />
+        <itemref idref="chapter11_en.html" />
+        <itemref idref="chapter12_en.html" />
     </spine>
     <guide />
 </package>

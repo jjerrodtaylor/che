@@ -17,24 +17,28 @@
             </navLabel>
             <content src="Text/Front-Matter/forward_page.html#toc_marker-1"/>
         </navPoint>
+
         <navPoint id="navpoint2" playOrder="2">
             <navLabel>
                 <text>Dédicace</text>
             </navLabel>
             <content src="Text/L2/introduction.html#toc_marker-2"/>
         </navPoint>
+
         <navPoint id="navpoint3" playOrder="3">
             <navLabel>
                 <text>Introduction </text>
             </navLabel>
             <content src="Text/L1/introduction.html#toc_marker-3"/>
         </navPoint>
+
         <navPoint id="navpoint4" playOrder="4">
             <navLabel>
                 <text>Chapitre I / Chapter I</text>
             </navLabel>
             <content src="Text/L2/chapter1.html#toc_marker-4"/>
         </navPoint>
+
         <navPoint id="navpoint5" playOrder="5">
             <navLabel>
                 <text>Au Fond Du Terrier</text>
@@ -44,9 +48,165 @@
 
         <navPoint id="navpoint6" playOrder="6">
             <navLabel>
+                <text>Chapitre II / Chapter II</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-6"/>
+        </navPoint>
+
+        <navPoint id="navpoint7" playOrder="7">
+            <navLabel>
+                <text>La Mare Aux Larmes</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-7"/>
+        </navPoint>
+
+        <navPoint id="navpoint8" playOrder="8">
+            <navLabel>
+                <text>Chapitre III / Chapter III</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-8"/>
+        </navPoint>
+
+        <navPoint id="navpoint9" playOrder="9">
+            <navLabel>
+                <text>La Course Cocasse</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-9"/>
+        </navPoint>
+
+        <navPoint id="navpoint10" playOrder="10">
+            <navLabel>
+                <text>Chapitre IV / Chapter IV</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-10"/>
+        </navPoint>
+
+        <navPoint id="navpoint11" playOrder="11">
+            <navLabel>
+                <text>L'Habitation Du Lapin Blanc</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-11"/>
+        </navPoint>
+
+        <navPoint id="navpoint12" playOrder="12">
+            <navLabel>
+                <text>Chapitre V / Chapter V</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-12"/>
+        </navPoint>
+
+        <navPoint id="navpoint13" playOrder="13">
+            <navLabel>
+                <text>Conseils D'Une Chenille</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-13"/>
+        </navPoint>
+
+        <navPoint id="navpoint14" playOrder="14">
+            <navLabel>
+                <text>Chapitre VI / Chapter VI</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-14"/>
+        </navPoint>
+
+        <navPoint id="navpoint15" playOrder="15">
+            <navLabel>
+                <text>Porc Et Poivre</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-15"/>
+        </navPoint>
+
+        <navPoint id="navpoint16" playOrder="16">
+            <navLabel>
+                <text>Chapitre VII / Chapter VII</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-16"/>
+        </navPoint>
+
+        <navPoint id="navpoint17" playOrder="17">
+            <navLabel>
+                <text>Un Thé De Fous</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-17"/>
+        </navPoint>
+
+        <navPoint id="navpoint18" playOrder="18">
+            <navLabel>
+                <text>Chapitre VIII / Chapter VIII</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-18"/>
+        </navPoint>
+
+        <navPoint id="navpoint19" playOrder="19">
+            <navLabel>
+                <text>Le Croquet De La Reine</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-19"/>
+        </navPoint>
+
+        <navPoint id="navpoint20" playOrder="20">
+            <navLabel>
+                <text>Chapitre IX / Chapter IX</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-20"/>
+        </navPoint>
+
+        <navPoint id="navpoint21" playOrder="21">
+            <navLabel>
+                <text>Histoire De La Fausse-Tortue</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-21"/>
+        </navPoint>
+
+        <navPoint id="navpoint22" playOrder="22">
+            <navLabel>
+                <text>Chapitre X / Chapter X</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-22"/>
+        </navPoint>
+
+        <navPoint id="navpoint23" playOrder="23">
+            <navLabel>
+                <text>Le Quadrille De Homards</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-23"/>
+        </navPoint>
+
+        <navPoint id="navpoint24" playOrder="24">
+            <navLabel>
+                <text>Chapitre XI / Chapter XI</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-24"/>
+        </navPoint>
+
+        <navPoint id="navpoint25" playOrder="25">
+            <navLabel>
+                <text>Qui A Volé Les Tartes</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-25"/>
+        </navPoint>
+
+        <navPoint id="navpoint26" playOrder="26">
+            <navLabel>
+                <text>Chapitre XII / Chapter XII</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-26"/>
+        </navPoint>
+
+        <navPoint id="navpoint27" playOrder="27">
+            <navLabel>
+                <text>Déposition D'Alice</text>
+            </navLabel>
+            <content src="Text/L2/chapter1.html#toc_marker-27"/>
+        </navPoint>
+
+
+
+        <navPoint id="navpoint6" playOrder="28">
+            <navLabel>
                 <text>English Parallel Text</text>
             </navLabel>
-            <content src="Text/L1/chapter1.html#toc_marker-6"/>
+            <content src="Text/L1/chapter1.html#toc_marker-28"/>
         </navPoint>
     </navMap>
 </ncx>
